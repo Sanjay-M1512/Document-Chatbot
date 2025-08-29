@@ -3,7 +3,7 @@ python-dotenv
 requests
 pymupdf                 # for fitz (PDF text extraction)
 sentence-transformers
-pinecone-client         # correct package name for Pinecone
+pinecone         # correct package name for Pinecone
 
 # === LangChain ===
 langchain

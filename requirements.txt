@@ -3,7 +3,7 @@ python-dotenv
 requests
 pymupdf           # for fitz (PDF text extraction)
 sentence-transformers
-pinecone-client
+pinecone
 
 # === LangChain Splitter ===
 langchain-text-splitters

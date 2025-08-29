@@ -127,4 +127,4 @@ POST /ask
 
 ---
 
-👩‍💻 Built by Sanjay with ❤️
+👩‍💻 Built by Sanjay M

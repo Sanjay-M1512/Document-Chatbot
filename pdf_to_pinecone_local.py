@@ -8,8 +8,8 @@ from pinecone import Pinecone, ServerlessSpec
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 # ========= Settings =========
-DEFAULT_MAX_CHARS = 800   # chunk size (smaller = better semantic coherence)
-DEFAULT_OVERLAP = 200     # overlap between chunks
+DEFAULT_MAX_CHARS = 1000   # chunk size (smaller = better semantic coherence)
+DEFAULT_OVERLAP = 300     # overlap between chunks
 BATCH_SIZE = 64
 MODEL_NAME = "all-MiniLM-L6-v2"  # 384-dim local embeddings
 # ============================

@@ -11,7 +11,10 @@ langchain-text-splitters
 # === Google Gemini API ===
 google-generativeai
 
+# === Flask Backend ===
+Flask
+Werkzeug
+gunicorn          # WSGI server for Render
+
 # === Optional / Utils ===
 tqdm              # progress bars if you want
-
-gunicorn

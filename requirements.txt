@@ -13,3 +13,5 @@ google-generativeai
 
 # === Optional / Utils ===
 tqdm              # progress bars if you want
+
+gunicorn
